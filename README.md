@@ -11,37 +11,37 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 
 # Papers
 
-## [Object Detection] (https://github.com/chunjenpeng/reference_paper/tree/main/object_detection)
+## [Object Detection](https://github.com/chunjenpeng/reference_paper/tree/main/object_detection)
 
 - **Paper Name** 
     - [paper]
-    - [source code](PyTorch)
+    - [source code] (TensorFlow/PyTorch)
     - [summary] 
 
 
 
 
-## [Pose Estimation] (https://github.com/chunjenpeng/reference_paper/tree/main/pose_estimation)
+## [Pose Estimation](https://github.com/chunjenpeng/reference_paper/tree/main/pose_estimation)
 
 - **Paper Name** 
     - [paper]
-    - [source code](PyTorch)
+    - [source code] (TensorFlow/PyTorch)
     - [summary] 
 
 
 
 
-## [Human Activity Recognition] (https://github.com/chunjenpeng/reference_paper/tree/main/human_activity_recognition)
+## [Human Activity Recognition](https://github.com/chunjenpeng/reference_paper/tree/main/human_activity_recognition)
 
 - **Paper Name** 
     - [paper]
-    - [source code](PyTorch)
+    - [source code] (TensorFlow/PyTorch)
     - [summary] 
 
 
 
 
-## [General] (https://github.com/chunjenpeng/reference_paper/tree/main/general)
+## [General](https://github.com/chunjenpeng/reference_paper/tree/main/general)
 
 - **U-Net: Convolutional Networks for Biomedical Image Segmentation** 
     - [[paper](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)] Jonathan Long, Evan Shelhamer, Trevor Darrell, [2017 CVPR] [FCN]
@@ -51,4 +51,4 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 - **MIXCONV: MIXED DEPTHWISE CONVOLUTIONAL KERNELS** 
 
     - [[paper](https://arxiv.org/pdf/1907.09595.pdf)] Mingxing Tan, Quoc V. Le, Google Brain, BMVC 2019
-    - [[summary](https://github.com/Cinnamon/IDEA_Input/blob/master/General_Tasks/MixConv_Mixed_Depthwise_Convolutional_Kernels.md)] Leo Liou
+    - [[summary](general/MixConv_Mixed_Depthwise_Convolutional_Kernels.md)] Leo Liou
