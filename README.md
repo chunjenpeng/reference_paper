@@ -1,6 +1,6 @@
-# IDEA_Input
+# Paper Survey
 
-Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) format :
+Summary of the input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) format :
 
 - **I**ntroduction: Why was the study undertaken? What problem was studied?
 - **M**ethods: How was the problem studied?
