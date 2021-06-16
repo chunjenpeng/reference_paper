@@ -11,7 +11,7 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 
 # Papers
 
-## [Object Detection](https://github.com/Cinnamon/reference_paper/tree/master/object_detection)
+## [Object Detection] (https://github.com/chunjenpeng/reference_paper/tree/main/object_detection)
 
 - **Paper Name** 
     - [paper]
@@ -21,7 +21,7 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 
 
 
-## [Pose Estimation](https://github.com/Cinnamon/reference_paper/tree/master/pose_estimation)
+## [Pose Estimation] (https://github.com/chunjenpeng/reference_paper/tree/main/pose_estimation)
 
 - **Paper Name** 
     - [paper]
@@ -31,7 +31,7 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 
 
 
-## [Human Activity Recognition](https://github.com/Cinnamon/reference_paper/tree/master/human_activity_recognition)
+## [Human Activity Recognition] (https://github.com/chunjenpeng/reference_paper/tree/main/human_activity_recognition)
 
 - **Paper Name** 
     - [paper]
@@ -41,7 +41,7 @@ Summary of the IDEA Input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) f
 
 
 
-## [General](https://github.com/Cinnamon/IDEA_Input/tree/master/general)
+## [General] (https://github.com/chunjenpeng/reference_paper/tree/main/general)
 
 - **U-Net: Convolutional Networks for Biomedical Image Segmentation** 
     - [[paper](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)] Jonathan Long, Evan Shelhamer, Trevor Darrell, [2017 CVPR] [FCN]
