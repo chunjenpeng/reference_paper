@@ -46,9 +46,9 @@ Summary of the input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) format
 - **U-Net: Convolutional Networks for Biomedical Image Segmentation** 
     - [[paper](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)] Jonathan Long, Evan Shelhamer, Trevor Darrell, [2017 CVPR] [FCN]
     - [[source code](https://github.com/milesial/Pytorch-UNet)](PyTorch)
-    - [[summary](general/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.md)] Tim Chang
+    - [[summary](general/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.md)] by Tim Chang
 
 - **MIXCONV: MIXED DEPTHWISE CONVOLUTIONAL KERNELS** 
 
     - [[paper](https://arxiv.org/pdf/1907.09595.pdf)] Mingxing Tan, Quoc V. Le, Google Brain, BMVC 2019
-    - [[summary](general/MixConv_Mixed_Depthwise_Convolutional_Kernels.md)] Leo Liou
+    - [[summary](general/MixConv_Mixed_Depthwise_Convolutional_Kernels.md)] by Leo Liou
