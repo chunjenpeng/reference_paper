@@ -79,6 +79,7 @@ At every stage, we will compute the loss and backpropogate to prevent the vanish
 
 ### Bipartite graph
 ![](https://i.imgur.com/uBhGRmV.png)
+
 It computes the line integral along the segment connecting each couple of part candidates, over the corresponding PAFs (x and y) for that pair.
 
 ### Assignment
