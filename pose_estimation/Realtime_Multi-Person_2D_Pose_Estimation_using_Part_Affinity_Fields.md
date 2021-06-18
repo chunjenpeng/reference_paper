@@ -75,6 +75,7 @@ In previous work, PAFs and body part location estimation were refined simultaneo
 
 
 ![](https://i.imgur.com/meMc2qo.png)
+
 At every stage, we will compute the loss and backpropogate to prevent the vanishing gradient problem.
 
 ### Bipartite graph
