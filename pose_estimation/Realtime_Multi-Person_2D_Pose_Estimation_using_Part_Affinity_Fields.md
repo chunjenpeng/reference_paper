@@ -94,6 +94,7 @@ They use the Hungarian algorithm to deal with the assignment problem in weighted
 
 ## Results
 ![](https://i.imgur.com/CvPbs1l.png)
+
 For the entire MPII testing set, our method
 without scale search already outperforms previous stateof-the-art methods by a large margin, i.e., 13% absolute
 increase on mAP.
