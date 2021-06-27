@@ -38,9 +38,9 @@ Summary of the input papers in [IMRAD](https://www.wikiwand.com/en/IMRAD) format
     - [source code] (TensorFlow/PyTorch)
     - [summary] 
 - **Real-world Anomaly Detection in Surveillance Videos**
-    - [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)]
+    - [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)] Waqas Sultani, Chen Chen, Mubarak Shah [2018CVPR]
     - [[source code](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018)] (Keras)
-    - [[summary](https://www.notion.so/Anomaly-Detection-in-Video-acf2c5f116e843ebb04555692afcbaca)]
+    - [[summary](https://www.notion.so/Anomaly-Detection-in-Video-acf2c5f116e843ebb04555692afcbaca)] by Darren Liou
 
 
 
